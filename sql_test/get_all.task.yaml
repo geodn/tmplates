@@ -1,0 +1,6 @@
+slug: get_all
+name: get all
+
+sql:
+  resource: "my_db"
+  entrypoint: get_all.sql
